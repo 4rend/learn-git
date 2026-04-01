@@ -3,6 +3,6 @@
 void foo();
 
 int main() {
-    std::cout << "hello, Zayn!\n";
+    std::cout << "hello, git\n";
     return 0;
 }
